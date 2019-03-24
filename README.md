@@ -1,5 +1,7 @@
 # mafda.github.io
 
+personal website.
+
 ## credits
 
-Jekyll theme: [front-cover](https://github.com/dashingcode/front-cover)
+based on [front-cover](https://github.com/dashingcode/front-cover) jekyll theme.
