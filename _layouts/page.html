@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="content">
+	{% if site.front_img %}
+    <img src="{{ site.front_img_path }}" id="fullscreen">
+    {% endif %}
+
+	<div id="main-container">
+		{{ content }}
+	</div>
+
+	<hr class="border2">
+
+	{% include social_inner.html %}
+</div>

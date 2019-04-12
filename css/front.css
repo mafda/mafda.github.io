@@ -25,6 +25,25 @@ body {
     border: 5px solid white;
     margin-bottom: 40px;
 }
+.content {
+    padding-top: 100px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+#main-container{
+    padding: 40px;
+    display: inline-block;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.2);
+    max-width: 640px;
+}
+#main-container a{
+    color: #4bd9ee;
+    padding: 0px;
+}
+#main-container a:hover{
+    text-decoration: underline;
+}
 h1 {
     color: white;
     font-weight: bold;
@@ -37,11 +56,12 @@ h3 {
     letter-spacing: 0.1em;
     padding-bottom: 20px;
     font-weight: thin;
+    font-family: 'Open Sans';
 }
-.content {
-    padding-top: 100px;
-    padding-bottom: 40px;
-    text-align: center;
+p{
+    color: white;
+    font-family: Open Sans;
+    font-size: 1.0em;
 }
 ul {
     list-style: none;
@@ -66,13 +86,36 @@ li:hover {
     text-decoration: none;
     background-color: rgba(0, 0, 0, 0.5);
 }
-a {
+a{
     color: white;
     padding: 15px;
     text-decoration: none;
 }
 .description {
     display: none;
+}
+hr.border1 {
+    border-top: 3px double white;
+    width: 30%;
+}
+hr.border2 {
+    border-top: 1px solid #4bd9ee;
+    width: 30%;
+    margin-bottom: 40px;
+}
+.button-menu{
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 8px 20px;
+    margin:10px;
+    display: inline-block;
+    font-size: 1em;
+}
+.button-menu:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+    ext-decoration: none;
 }
 
 @media (max-width: 450px) {
@@ -98,11 +141,11 @@ li:hover {
 a {
     text-align: justify;
     border: 2px solid white;
-    border-radius: 5px;
+    border-radius: 15px;
     color: white;
     padding: 15px;
-    padding-left: 30px;
-    width: 70%;
+    padding-left: 25px;
+    width: 75%;
 }
 a:hover {
     -webkit-transition: 500ms;
@@ -115,10 +158,12 @@ a:hover {
 .description {
     display: inline-block;
     color: white;
-    font-family: Arial;
+    font-family: Open Sans;
+    font-size: 0.8em;
     margin-left: 40px;
 }
 .content {
     padding-top: 60px;
 }
+
 }
