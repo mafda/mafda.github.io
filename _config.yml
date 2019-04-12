@@ -1,35 +1,24 @@
 # Site settings
-name: "Ma. Fernanda Rodríguez"
-title: "María Fernanda Rodríguez"
-description: "multimedia engineer. postgraduate student.<br>augmented reality, artificial intelligence, computer science, and technology."
-head_description: "multimedia engineer. postgraduate student. augmented reality, artificial intelligence, computer science, and technology."
+name: "ma. fernanda rodríguez r"
+# name: "mi amor loquita!"
+title: "ma. fernanda rodríguez r"
+description: "multimedia engineer, master in mechanical engineering and phd student."
+head_description: "ma. fernanda rodríguez r - multimedia engineer, master in mechanical engineering and phd student."
+keywords: "multimedia engineer, Jekyll, theme, free, download, SEO, blog, web"
 url: ""
 
-
-# Delete the lines you don't need
-# about 5 elements are recomended
 github_username:  mafda
-youtube_username: mafdaru
 linkedin_username: mafdarodriguezr
 email: mafda13@gmail.com
 
-
 avatar: yes
-#avatar_img_path: "img/avatar.jpg""
-# You can link to your GitHub image. That way it will get updated
-# automatically whenever you change your GitHub profile picture
 avatar_img_path: "https://avatars3.githubusercontent.com/u/7698160"
 
-
 front_img: yes
-front_img_path: "img/piscinas_naturais_floripa_sc.jpg"
-#front_img_path: "https://external.url/image.jpg"
-
+front_img_path: "/img/piscinas_naturais_floripa_sc.jpg"
 
 favicon_img: yes
-favicon_img_path: "img/favicon.ico"
-#favicon_img_path: "https://external.url/favicon.ico"
-
+favicon_img_path: "/img/favicon.ico"
 
 # Build settings
 markdown: kramdown
