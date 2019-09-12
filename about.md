@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ma. fernanda rodríguez r - about
+title: ma. fernanda rodríguez r. - about me
 permalink: /about/
 ---
 
