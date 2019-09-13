@@ -6,8 +6,11 @@ layout: default
 	{% if site.front_img %}
     <img src="{{ site.front_img_path }}" id="fullscreen">
     {% endif %}
-
+    
 	<div id="main-container">
+
+		<a href="{{ '/home' | prepend: site.baseurl }}" class="button-home" title="home">home</a>
+
 		{{ content }}
 	</div>
 
