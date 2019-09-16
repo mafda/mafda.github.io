@@ -12,6 +12,6 @@ i’m maría fernanda, a [multimedia engineer](http://www.umng.edu.co/web/guest/
 
 i love everything about augmented reality, artificial intelligence, computer science and technology.
 
-look at some of my work [projects]().
+look at some of my work [projects](/post).
 
 for more information, check out my [resume](/assets/resume_mafernandarodriguezr.pdf).
