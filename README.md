@@ -1,6 +1,6 @@
 # mafda.github.io
 
-personal website.
+my personal website, visit me at [https://mafda.github.io](https://mafda.github.io).
 
 ## credits
 
