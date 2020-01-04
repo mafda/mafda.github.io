@@ -34,7 +34,7 @@ body {
     padding: 40px;
     display: inline-block;
     text-align: left;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.5);
     max-width: 640px;
     border-radius: 20px;
 }
@@ -54,7 +54,7 @@ h1 {
 }
 h3 {
     color: white;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.0em;
     padding-bottom: 20px;
     font-weight: thin;
     font-family: 'Open Sans';
