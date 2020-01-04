@@ -1,9 +1,15 @@
 # Site settings
 name: "ma. fernanda rodríguez r."
-title: "ma. fernanda rodríguez r."
-description: "multimedia engineer, master in mechanical engineering and phd student"
-head_description: "ma. fernanda rodríguez r. - multimedia engineer, master in mechanical engineering and phd student."
-keywords: "multimedia engineer, Jekyll, theme, free, download, SEO, blog, web"
+title: "ma. fernanda rodríguez r. | personal website"
+description: "multimedia engineer, m.sc. in mechanical engineering and ph.d.
+student in computer engineering"
+head_description: "i’m maría fernanda, multimedia engineer, m.sc. in mechanical
+engineering, and ph.d. student in computer engineering."
+keywords: "maria fernanda rodriguez ruiz, mafda, mafdarr, mafdaru, multimedia
+engineer, computer applications, augmented reality, machine learning, computer
+graphics, computer vision, image processing, interaction human-computer, digital
+media, web design, digital image and video, 3D modeling, 3D rendering, 3D
+animation, jekyll, blog, personal website"
 url: ""
 
 github_username:  mafda
