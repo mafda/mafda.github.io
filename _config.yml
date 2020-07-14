@@ -1,9 +1,12 @@
 ### Site Settings ###
 title               : mafda
-description         : >-
-                      multimedia engineer,
-                      m.sc. in mechanical engineering and
-                      ph.d. student in computer engineering.
+description         : >- # this means to ignore new|lines until "baseurl:"
+                      <br>
+                      <strong>fernanda rodriguez</strong><br><br>
+                      :dart: web developer<br>
+                      :mortar_board: multimedia engineer<br>
+                      :mortar_board: m.sc. in mechanical eng.<br>
+                      :construction: ph.d. student in augmented reality & machine learning.
 keywords: "maria fernanda rodriguez ruiz, mafda, mafdarr, mafdaru, multimedia
 engineer, computer applications, augmented reality, machine learning, computer
 graphics, computer vision, image processing, interaction human-computer, digital
@@ -22,8 +25,6 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
-
 
 ### Author Info ###
 author:
@@ -32,12 +33,13 @@ author:
   email             : mafda13@gmail.com
   github            : mafda
   gitlab            : mafda
-  kaggle            : mafdarr
   linkedin          : mafda
   medium            : mafda_
+  kaggle            : mafdarr
+  codepen           : mafda
+  hackerrank        : mafda
+  researchgate      : Maria_Rodriguez_Ruiz2 
   twitter           : mafda_
-  # codepen         : mafda
-  # hackerrank      : mafda
 
 
 ### Posts ###
@@ -49,12 +51,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
-
-
-### Disqus ###
-disqus: your-short-name-disqus                          # Your website Shortname on disqus
 
 
 ### Analytics ###
@@ -71,11 +67,6 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
