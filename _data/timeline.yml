@@ -1,14 +1,15 @@
-- title: PhD student in Electrical and Computer Engineering, UNICAMP, Brazil
-  from: 2015
-  to: present
-  description: Thesis - Occlusion treatment in objects tracking for augmented reality systems. Advisor - Prof. José Mario De Martino, Ph.D. | Software technologies such as Python, Keras, Git, and Vuforia.
+- title: Languages
+  from:
+  to:  I’m fluent in Python, JavaScript, HTML, and CSS. Also, I’ve worked with SQL and PHP.
+  # description:
 
-- title: MSc. in Mechanical Engineering, UNICAMP, Brazil
-  from: 2012
-  to: 2014
-  description: Dissertation - Development of a hybrid localization system for autonomous navigation of ground vehicles in a simulated environment. Advisor - Prof. Janito Vaqueiro Ferreira, Ph.D. | Software technologies such as Python, ROS, Gazebo, PostgreSQL, JavaScript, HTML, and PHP.
+- title: Development
+  to: I’ve worked with Bootstrap, Jekyll, ReactJS, and React Native for front-end development. Also, I’m experienced with NodeJS and Django in the back-end.
 
-- title: Multimedia Engineering, UMNG - Colombia
-  from: 2004
-  to: 2009
-  description: Project - Development of a virtual an object of learning for management training of animal models in research processes. | Software technologies such as Autodesk Maya, Adobe Flash, and ActionScript. 
+- title: Design
+  to: I’m skilled in digital image editing software such as Photoshop, Gimp, and Illustrator, and 3D graphics software like Maya and 3ds Max.
+ 
+
+- title: Tools
+  to: Believer of the power of the shell (not PowerShell) and Vim. I use Git as my main version-control tool. Text editing in Markdown and Latex. I am familiar with libraries like OpenCV, Pandas, TensorFlow and Keras, and platforms like Jupyter/Colab Notebook and Docker.
+ 
