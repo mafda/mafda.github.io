@@ -14,7 +14,7 @@ dribbble:
 email:
   url   : "mailto:"
   icon  : fas fa-envelope
-  color : db4437
+  color : d93025
 
 facebook:
   url   : https://www.facebook.com/
@@ -24,12 +24,12 @@ facebook:
 github:
   url   : https://www.github.com/
   icon  : fab fa-github
-  color : 333333
+  color : 24292e
 
 gitlab:
   url   : https://www.gitlab.com/
   icon  : fab fa-gitlab
-  color : fca326
+  color : fa7035
 
 instagram:
   url   : https://www.instagram.com/
@@ -44,12 +44,12 @@ kaggle:
 linkedin:
   url   : https://www.linkedin.com/in/
   icon  : fab fa-linkedin-in
-  color : 007bb5
+  color : 0077b5
 
 medium:
   url   : https://medium.com/@
   icon  : fab fa-medium
-  color : 00ab6c
+  color : 292929
 
 soundcloud:
   url   : https://www.soundcloud.com/
@@ -90,3 +90,28 @@ youtube:
   url   : https://www.youtube.com/
   icon  : fab fa-youtube
   color : ff0000
+
+codepen:
+  url   : https://codepen.io/
+  icon  : fab fa-codepen
+  color : 000000
+
+hackerrank:
+  url   : https://www.hackerrank.com/
+  icon  : fab fa-hackerrank
+  color : 2ec866
+
+goodreads:
+  url   : https://www.goodreads.com/
+  icon  : fab fa-goodreads
+  color : 927f64
+
+strava:
+  url   : https://www.strava.com/athletes/
+  icon  : fab fa-strava
+  color : fc4c02 
+
+researchgate:
+  url   : https://www.researchgate.net/profile/
+  icon  : fab fa-researchgate
+  color : 40ba9b  
