@@ -22,5 +22,9 @@ I consider myself a **creative**, committed, and responsible person. I’m an en
 </div> -->
 
 <div class="row">
+
+</div>
+
+<div class="row">
 {% include about/timeline.html %}
 </div>
