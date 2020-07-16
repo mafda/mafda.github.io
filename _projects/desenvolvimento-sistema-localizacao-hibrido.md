@@ -9,6 +9,10 @@ description: (pt-BR) Desenvolvimento de um Sistema de Localização Híbrido par
 
 (pt-BR) *Desenvolvimento de um Sistema de Localização Híbrido para Navegação Autônoma de Veículos Terrestres em Ambiente Simulado.*
 
+LMA - Laboratório de Mobilidade Autônoma
+
+
+## Referência
 
 ```bibtex
 @mastersthesis{mfrr2014,
@@ -20,6 +24,19 @@ description: (pt-BR) Desenvolvimento de um Sistema de Localização Híbrido par
 }
 ```
 
+<p>
+{% include elements/button.html link="https://www.researchgate.net/publication/337716639_Desenvolvimento_de_um_sistema_de_localizacao_hibrido_para_navegacao_autonoma_de_veiculos_terrestres_em_ambiente_simulado" text="Research Gate" style="info" %}
+</p>
+
+<p>
+{% include elements/button.html link="http://repositorio.unicamp.br/jspui/handle/REPOSIP/265883" text="Repositorio Unicamp" style="info" %}
+</p>
+
+<p>
+{% include elements/button.html link="https://www.unicamp.br/unicamp/ju/616/navegacao-sem-condutor-mas-segura" text="Jornal da Unicamp" style="info" %}
+</p>
+
+## Videos
 
 #### LMA - Plataforma de Localização e Simulação
 
@@ -39,6 +56,3 @@ O sistema operacional do veículo autônomo lê as informações que estão send
 
 {% include elements/video.html id="Tu4otTVFYFc" %}
 
-<p class="text-center">
-{% include elements/button.html link="https://www.researchgate.net/publication/337716639_Desenvolvimento_de_um_sistema_de_localizacao_hibrido_para_navegacao_autonoma_de_veiculos_terrestres_em_ambiente_simulado" text="Read More" style="info" %}
-</p>
