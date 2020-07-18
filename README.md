@@ -4,4 +4,4 @@ my personal website, visit me at [https://mafda.github.io](https://mafda.github.
 
 ## credits
 
-based on [front-cover](https://github.com/dashingcode/front-cover) jekyll theme.
+based on [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU) jekyll theme.
