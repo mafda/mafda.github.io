@@ -1,8 +1,12 @@
 ### Site Settings ###
 title               : mafda
 description         : >- # this means to ignore new|lines until "baseurl:"
-                      fernanda rodriguez --- web developer --- 
-                      multimedia engineer --- ph.d. student in augmented reality & machine learning.
+                      <h2>fernanda rodriguez</h2><br>
+                      :dart: web developer<br>
+                      :mortar_board: multimedia engineer<br>
+                      :mortar_board: m.sc. in mechanical eng.<br>
+                      :construction: ph.d. student in augmented reality & machine learning.
+
 keywords: "maria fernanda rodriguez ruiz, mafda, mafda_, multimedia
 engineer, computer applications, augmented reality, machine learning, computer
 graphics, computer vision, image processing, interaction human-computer, digital
