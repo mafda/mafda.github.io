@@ -7,11 +7,7 @@ description         : >- # this means to ignore new|lines until "baseurl:"
                       :mortar_board: m.sc. in mechanical eng.<br>
                       :construction: ph.d. student in augmented reality & machine learning.
 
-keywords: "maria fernanda rodriguez ruiz, mafda, mafda_, multimedia
-engineer, computer applications, augmented reality, machine learning, computer
-graphics, computer vision, image processing, interaction human-computer, digital
-media, web design, digital image and video, 3D modeling, 3D rendering, 3D
-animation, jekyll, blog, personal website"
+keywords: "maria fernanda rodriguez ruiz, mafda, mafda_, fernanda rodriguez, multimedia engineer, computer applications, augmented reality, machine learning, computer graphics, computer vision, image processing, interaction human-computer, digital media, web design, digital image and video, 3D modeling, 3D rendering, 3D animation, jekyll, blog, personal website"
 head_description: "i’m fernanda rodriguez, multimedia engineer, m.sc. in mechanical engineering, and ph.d. student in computer engineering."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : "mafda/mafda.github.io"     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
