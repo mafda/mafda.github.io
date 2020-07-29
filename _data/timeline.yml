@@ -1,6 +1,6 @@
 - title: Languages
   from:
-  to:  I’m fluent in Python, JavaScript, HTML, and CSS. Also, I’ve worked with SQL and PHP.
+  to:  I’m fluent in Python, HTML, and CSS. Also, I’ve worked with JavaScript, SQL and PHP.
   # description:
 
 - title: Development
@@ -11,5 +11,5 @@
  
 
 - title: Tools
-  to: Believer of the power of the shell (not PowerShell) and Vim. I use Git as my main version-control tool. Text editing in Markdown and Latex. I am familiar with libraries like OpenCV, Pandas, TensorFlow and Keras, and platforms like Jupyter/Colab Notebook and Docker.
+  to: Believer of the power of the shell (not PowerShell) and Vim. I use Git as my main version-control tool. Text editing in Markdown and Latex. I am familiar with libraries like OpenCV, Pandas, and Keras, and platforms like Jupyter/Colab Notebook and Docker.
  
