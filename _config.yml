@@ -2,12 +2,12 @@
 title               : mafda
 description         : >- # this means to ignore new|lines until "baseurl:"
                       <h2>fernanda rodriguez</h2><br>
-                      :dart: web developer<br>
+                      :dart: full stack developer<br>
                       :mortar_board: multimedia engineer<br>
                       :mortar_board: m.sc. in mechanical eng.<br>
                       :construction: ph.d. student in augmented reality & machine learning.
 
-keywords: "maria fernanda rodriguez ruiz, mafda, mafda_, fernanda rodriguez, multimedia engineer, computer applications, augmented reality, machine learning, computer graphics, computer vision, image processing, interaction human-computer, digital media, web design, digital image and video, 3D modeling, 3D rendering, 3D animation, jekyll, blog, personal website"
+keywords: "fernanda rodriguez, maria fernanda rodriguez ruiz, mafda, mafda_, multimedia engineer, computer applications, augmented reality, machine learning, computer graphics, computer vision, image processing, interaction human-computer, digital media, web design, digital image and video, 3D modeling, 3D rendering, 3D animation, jekyll, blog, personal website"
 head_description: "i’m fernanda rodriguez, multimedia engineer, m.sc. in mechanical engineering, and ph.d. student in computer engineering."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : "mafda/mafda.github.io"     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -35,7 +35,7 @@ author:
   kaggle            : mafdarr
   codepen           : mafda
   hackerrank        : mafda
-  researchgate      : Maria_Rodriguez_Ruiz2 
+  researchgate      : Maria_Rodriguez_Ruiz2
   twitter           : mafda_
 
 
