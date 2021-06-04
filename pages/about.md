@@ -15,6 +15,8 @@ My interests cover from interface design, focusing on **UI/UX**, to web and mobi
 
 I consider myself a **creative**, committed, and responsible person. I’m an enthusiast of self-learning, and I feel excited in front of big **new challenges**.
 
+Currently, I am studying MLOps and Kubernetes :rocket:
+
 ## **Skills**
 
 <div class="row">
