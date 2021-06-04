@@ -3,13 +3,11 @@
   to:  I’m fluent in Python, HTML, and CSS. Also, I’ve worked with JavaScript, SQL and PHP.
   # description:
 
+- title: Tools
+  to: Believer of the power of the shell (not PowerShell) and Vim. I use Git as my main version-control tool. Text editing in Markdown and Latex. I am familiar with libraries like OpenCV, Pandas, and Keras, and platforms like Jupyter/Colab Notebook and Docker.
+
 - title: Development
   to: I’ve worked with Bootstrap, Jekyll, ReactJS, and React Native for front-end development. Also, I’m experienced with NodeJS and Django in the back-end.
 
 - title: Design
   to: I’m skilled in digital image editing software such as Photoshop, Gimp, and Illustrator, and 3D graphics software like Maya and 3ds Max.
- 
-
-- title: Tools
-  to: Believer of the power of the shell (not PowerShell) and Vim. I use Git as my main version-control tool. Text editing in Markdown and Latex. I am familiar with libraries like OpenCV, Pandas, and Keras, and platforms like Jupyter/Colab Notebook and Docker.
- 

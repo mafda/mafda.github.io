@@ -2,7 +2,7 @@
 title               : mafda
 description         : >- # this means to ignore new|lines until "baseurl:"
                       <h2>fernanda rodriguez</h2><br>
-                      :dart: full stack developer<br>
+                      :dart: data scientist. front-end dev.<br>
                       :mortar_board: multimedia engineer<br>
                       :mortar_board: m.sc. in mechanical eng.<br>
                       :construction: ph.d. student in augmented reality & machine learning.
@@ -31,7 +31,7 @@ author:
   github            : mafda
   gitlab            : mafda
   linkedin          : mafda
-  medium            : mafda_
+  medium            : mafda
   kaggle            : mafdarr
   codepen           : mafda
   hackerrank        : mafda
