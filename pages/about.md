@@ -7,7 +7,7 @@ weight: 1
 
 # **About Me**
 
-Hi! I am maría fernanda rodríguez r. :raising_hand:
+Hi! I am **maría fernanda rodríguez r**. :raising_hand:
 
 I am a driven professional with over ten years of experience in
 **front-end development**, **research**, and recently as a **data scientist**.
@@ -29,7 +29,7 @@ I like technology, and I am passionate about solutions. From my perspective,
 information technologies have enormous potential to solve problems and have a
 huge impact on everyone's life. Being part of this process is just exciting.
 
-Currently, I am studying MLOps and Kubernetes :rocket:
+Currently, I am studying **MLOps** and **Kubernetes** :rocket:
 
 ## **Skills**
 
