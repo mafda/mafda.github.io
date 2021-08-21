@@ -9,10 +9,16 @@ description: (es) Conferencias - Experiencias como ingeniera en multimedia. Tray
 
 "20 años de la Ingeniería en Multimedia"
 
-## Experiencias como ingeniera en multimedia. Trayectoria de carrera
+## Experiencias como ingeniera en multimedia.
+
+Trayectoria de carrera.
 
 {% include elements/video.html id="Fyl2N8-GHOc" %}
 
-##  Experiencias de egresados de ingeniería en multimedia en formación doctoral
+---
+
+##  Experiencias de egresados de ingeniería en multimedia
+
+Formación doctoral
 
 {% include elements/video.html id="LC6h0jo5HJE" %}
