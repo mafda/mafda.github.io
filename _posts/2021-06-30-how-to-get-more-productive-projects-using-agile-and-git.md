@@ -1,6 +1,6 @@
 ---
 title: How to Get More Productive Projects Using Agile and Git
-tags: [Python, Git, Tutorial]
+tags: [Data Science, Git, Python, Tutorial]
 # style : fill, border
 style: border
 color: info

@@ -30,7 +30,7 @@ I like technology, and I am passionate about solutions. From my perspective,
 information technologies have enormous potential to solve problems and have a
 huge impact on everyone's life. Being part of this process is exciting.
 
-Currently, I am studying **MLOps** and **Kubernetes** :rocket:
+Currently, I am studying **MLOps** :rocket:
 
 ## **Skills**
 

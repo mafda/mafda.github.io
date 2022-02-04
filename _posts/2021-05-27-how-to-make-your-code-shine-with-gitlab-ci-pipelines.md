@@ -1,6 +1,6 @@
 ---
 title: How to Make your Code Shine with GitLab CI Pipelines
-tags: [Python, Git, Tutorial]
+tags: [Data Science, Git, Python, Tutorial]
 # style : fill, border
 style: border
 color: info
