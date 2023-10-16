@@ -9,28 +9,17 @@ weight: 1
 
 :raising_hand: Hi! I am **maría fernanda rodríguez r.**
 
-I am a driven professional with over ten years of experience in
-**front-end development**, **research**, and recently I am working as a
-**data scientist**.
+I am a motivated professional with over ten years of experience in front-end development and research. Currently, I am working as a data scientist.
 
-I have worked in the digital media industry on tasks ranging from interface design,
-focusing on UI/UX, to web and mobile applications, as well as back-end development.
-I think by having an understanding of how the full-stack is composed, the whole
-development process becomes more fluent.
+In the beginning of my professional career, I worked in the digital media industry for about 3 years, primarily focusing on tasks such as interface design, UI/UX, web development, and more recently, mobile applications, as well as back-end development. I believe that understanding the full-stack composition enhances the overall fluency of the entire development process.
 
-Also, I have experience as an academic researcher, focusing mainly on areas
-related to augmented reality and machine learning, among others, such as computer
-graphics, computer vision, image processing, and human-computer interaction.
+Throughout my postgraduate studies, I acquired experience as an academic researcher, with a primary focus on areas related to augmented reality and machine learning. Additionally, I have expertise in fields such as computer graphics, computer vision, image processing, and human-computer interaction.
 
-I consider myself to be a creative, committed, and responsible person. I am an
-enthusiastic self-learner, and I feel excited by big new challenges. I think they
-are the best way to grow in any area.
+At present, I hold a position as a data scientist, where my focus lies in expanding my expertise in machine learning systems, data science, and big data technologies.
 
-I like technology, and I am passionate about solutions. From my perspective,
-information technologies have enormous potential to solve problems and have a
-huge impact on everyone's life. Being part of this process is exciting.
+I see myself as a creative, dedicated, and accountable individual. I’m passionate about self-driven learning and thrive on embracing substantial challenges, as I believe they offer the most valuable opportunities for personal and professional development.
 
-Currently, I am studying **MLOps** :rocket:
+I have a deep passion for technology and problem-solving. In my view, information technologies possess immense potential to address challenges and significantly impact everyone's lives. Being actively involved in this transformative process is incredibly exhilarating.
 
 ## **Skills**
 
